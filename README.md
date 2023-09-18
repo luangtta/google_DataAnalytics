@@ -2,7 +2,7 @@
 # Estudo de caso para Certificação Data Analytics Google
 
 #### Detalhes sobre o projeto:
-* [Notas](/notas.html)
+* [Notas](/notas.md)
 
 #### Licença:
 * [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
