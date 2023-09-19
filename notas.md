@@ -250,3 +250,8 @@ Salário Mínimo: foram considerados os valores do mês de dezembro de cada ano 
 * Para essa análise foi considerada apenas o partido que mais venceu as eleições presidenciais e o perfil de seu eleitor.
 * Dentre todos os perfis de eleitores apresentados pelos Institutos de Pesquisas, foram considerados apenas aqueles que apresentavam a maior diferença.  
 * Os gráficos apresentam apenas o perfil do eleitor deste partido, e dessa forma, todo o restante foi considerado, "outros partidos" - pois não é relevante para o objetivo da análise.
+
+
+## Estudo  
+
+Link para o [Estudo](/estudo.html)
