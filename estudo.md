@@ -133,3 +133,67 @@ Fonte:
 * Perfil geral: [Folha](https://www1.folha.uol.com.br/poder/2022/05/datafolha-lula-vai-melhor-entre-quem-recebe-auxilio-brasil-e-tem-medo-da-covid.shtml)
 * Presidiários: [Globo](https://oglobo.globo.com/politica/bolsonaro-ou-haddad-veja-em-quem-os-presos-brasileiros-votaram-23359518)
 * Presidiários: [Câmara dos Deputados](https://www.camara.leg.br/noticias/143233-voto-de-presos-provisorios-diversifica-perfil-do-eleitor-brasileiro/)
+  
+<hr>  
+  
+  
+# CONCLUSÃO  
+  
+## As perguntas iniciais que motivaram esse Estudo foram:  
+  
+1. Em termos de Legislação, como é o Brasil?  
+3. Como é o Saneamento Básico?  
+4. Qual o histórico da Segurança Pública do Brasil?  
+5. Qual a evolução do Brasil em termos de Gestão e Economia?  
+6. O nível de desemprego no Brasil é estável, ou varia conforme as mudanças dos governos?  
+7. Como a gestão política afetou o nível da educação no Brasil?   
+8. Em termos de Programas Sociais, como é a evolução no Brasil?     
+<br>
+  
+    
+## Todas as perguntas podem ser respondidas de forma resumida:  
+
+> <h4>O dados indicam que faltam: sinceridade nos nossos governantes e educação em nossa população.</h4>  
+ 
+<br>  
+  
+ 
+## Ou de forma pontual:
+
+> <h4>Os dados mostram, de forma inequívoca, que o Brasil</h4>  
+> 
+> ... é um emaranhado de Leis.  
+>   
+> ... é o lugar que permite idas e vindas de Presidentes que apenas observam de longe a falta de saneamento BÁSICO de sua população, sem nada a fazer por mais de 20 anos.  
+> 
+> ... é um país em que os governantes _(poderes executivo, legislativo e judiciário)_ andam com escolta armada, enquanto o cidadão de bem segue refém da hipocrisia - esta talvez tão danosa quanto o bandido.  
+>   
+> ... é um país onde seu cidadão confia que a ECONOMIA, a GESTÃO, a SAÚDE e toda ESTRATÉGIA para comandar seu país e sua vida, podem ser confiadas a quem não sabe fazer conta básica.  
+>   
+> ... é onde o nível de desemprego se mantém alto, da mesma forma, há décadas.  
+>   
+> ... é aquele lugar chamado de Pátria Educadora, onde alguns de seus governantes ostentam com orgulho seu patrono, enquanto convenientemente fecham os olhos para o cidadão cada vez mais burro.  
+>   
+> ... é onde o trabalho e o suor não são respeitados e seus bens podem ser tomados, servindo de justificativa para distribuição de renda; incoerentemente, ao mesmo tempo em que mantém tais terras tomadas e que sobram, paradas sob sua gestão, sem realmente distribui-las e efetivar a titulação às famílias que seguem na fila... cadastradas... há 40 anos... esperando... e votando nesses mesmos partidos, por medo de perder o lugar... na fila.  
+>    
+> ### _"A pior prisão é aquela que não se vê"_
+<br>  
+  
+  
+### Esse Estudo trouxe uma nova pergunta    
+
+     
+**Considere o seguinte cenário:**   
+Será que laboratórios farmacêuticos, que se mantém com poder, ganhando muito dinheiro devido às doenças, querem acabar de verdade com as doenças?  
+
+     
+**Agora se pergunte:**  
+Será que partidos políticos, que se mantém no poder, ganhando muito dinheiro, devido ao voto da população mais necessitada financeiramente, dos menos instruídos, que mantém seu povo na esperança de terra e auxílios sociais, que tem apoio do crime, quer realmente melhorar a educação, a condição financeira e a segurança dessa população?  
+E assim perder justamente o mesmo grupo que lhe mantém no poder?  
+  
+Esta é uma resposta que poderia estancar o sangue do cidadão de bem.  
+ 
+
+![cidadao](/images/interrogacao.png)
+
+    
