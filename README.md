@@ -5,7 +5,7 @@
   
 Estudo de caso para a conclusão da Certificação de Data Analytics – Google.  
 
-O presente [Estudo](/estudo.html) segue conforme orientações da ‘TRILHA 2’ da certificação mencionada, que consiste em escolher um conjunto de dados públicos, conforme interesses pessoais, para análise.    
+O presente [Estudo](/estudo.md) segue conforme orientações da ‘TRILHA 2’ da certificação mencionada, que consiste em escolher um conjunto de dados públicos, conforme interesses pessoais, para análise.    
 <br>
 
 
@@ -33,7 +33,7 @@ E Kant, “corroborando”, trouxe algo como, “a filosofia é a ciência da re
   
 ## Metodologia
 
-Este [Estudo](/estudo.html) foi elaborado conforme as fases de _data analytics_ do Google:  
+Este [Estudo](/estudo.md) foi elaborado conforme as fases de _data analytics_ do Google:  
 
 1. Perguntar
 2. Preparar
@@ -46,7 +46,7 @@ Este [Estudo](/estudo.html) foi elaborado conforme as fases de _data analytics_ 
 
 ### _Fase 1: Perguntar_
 
-#### Objetivo: o propósito deste [Estudo](/estudo.html) é verificar se há avanço na vida do brasileiro, conforme políticas    governo, e o que pode ser feito para uma eventual melhora.
+#### Objetivo: o propósito deste [Estudo](/estudo.md) é verificar se há avanço na vida do brasileiro, conforme políticas    governo, e o que pode ser feito para uma eventual melhora.
   
 **Serão apresentados dados referentes a algumas das áreas que mais afetam a população:**
 - Evolução/ quantidade de Leis existentes;
@@ -74,7 +74,7 @@ _... além de algumas informações adicionais - para eventuais insights._
        
 ### _Fase 2: Preparar_
 
-Considerando o objetivo deste [Estudo](/estudo.html) e a necessidade da integridade, veracidade, imparcialidade e confiabilidade dos dados, todo conjunto utilizado foi coletado diretamente dos seguintes sites governamentais, entre outros de idoneidade conhecida:
+Considerando o objetivo deste [Estudo](/estudo.md) e a necessidade da integridade, veracidade, imparcialidade e confiabilidade dos dados, todo conjunto utilizado foi coletado diretamente dos seguintes sites governamentais, entre outros de idoneidade conhecida:
 
 - Portal da Transparência: Controladoria Geral da União;
 - Datasus: Ministério da Saúde;
@@ -103,19 +103,19 @@ O tratamento dos dados foi realizado conforme informações detalhadas em [notas
 **Importante:**
 O Google não apenas orienta, como destaca a importância de renunciar a opinião pessoal e deixar os "dados falarem por si" ao analisar e compartilhar os dados com as partes interessadas _(stakeholders)_.  
 
-Como o tema escolhido costuma ser controverso, esse [Estudo](/estudo.html) apresenta sua "Conclusão" de uma forma diferenciada, pois os resultados são suficientemente claros e vão ao encontro das orientações do Google: "permita que os dados contem sua história".  
+Como o tema escolhido costuma ser controverso, esse [Estudo](/estudo.md) apresenta sua "Conclusão" de uma forma diferenciada, pois os resultados são suficientemente claros e vão ao encontro das orientações do Google: "permita que os dados contem sua história".  
 <br>
 
 
 ### _Fase 5: Compartilhar_
 
-Os dados e sua história em forma de gráfico estão no [Estudo](/estudo.html).  
+Os dados e sua história em forma de gráfico estão no [Estudo](/estudo.md).  
 <br>
 
 
 ### _Fase 6: Agir_
 
-Esta fase não foi solicitada para o [Estudo](/estudo.html), pois se trata de implementar as ações; envolve pessoas e treinamento.
+Esta fase não foi solicitada para o [Estudo](/estudo.md), pois se trata de implementar as ações; envolve pessoas e treinamento.
 De fato, esse "Agir" é a aplicação prática, a resolução dos problemas provocados pelas perguntas iniciais, a tomada de decisão a partir dos insights para criar algo.
 
 Pois bem, mesmo o Google não solicitando, tenho esperança que o bom cidadão, aquele livre de viés, aquele que não altera a verdade para reforçar suas convicções, poderá agir.  
