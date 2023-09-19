@@ -58,12 +58,13 @@ Nesse caso, o limite disponível é 1821.
 * População _(2007)_: [IBGE](https://sidra.ibge.gov.br/tabela/793#resultado)
 <br>
 
-### E) Economia - PIB, Contas, Despesas e Dívidas Públicas
+### E) Economia - PIB, Contas, Despesas e Dívidas Públicas, Desemprego
 
 * PIB: [IBGE](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9300-contas-nacionais-trimestrais.html?edicao=35642&t=resultados) _(ver Tabelas Com Dados Atualizados)_
 * Despesas: [Portal da Transparência](https://portaldatransparencia.gov.br/orcamento/despesas?paginacaoSimples=true&tamanhoPagina=&offset=&direcaoOrdenacao=asc&de=2023&ate=2023&orgaos=OS26000&colunasSelecionadas=ano%2CorgaoSuperior%2CorgaoVinculado%2Cfuncao%2CsubFuncao%2Cprograma%2Cacao%2CcategoriaEconomica%2CgrupoDespesa%2CelementoDespesa%2CorcamentoInicial%2CorcamentoAtualizado%2CorcamentoRealizado%2CvalorEmpenhado%2CpercentualRealizado&ordenarPor=ano&direcao=desc)
 * Dívida Pública: [Banco Central do Brasil](https://www.bcb.gov.br/estatisticas/tabelasespeciais) _(ver Evolução da dívida pública - tabelas adicionais)_
 * Quitação Dívida FMI _(Lula)_: [Câmara dos Deputados](https://www.camara.leg.br/radio/programas/266702-quitacao-antecipada-de-divida-com-fmi-causa-polemica-05-18)
+* Desemprego: [IBGE](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-trimestral.html?=&t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=desemprego)
 <br>
 
 ### F) Educação
@@ -79,9 +80,17 @@ Nesse caso, o limite disponível é 1821.
 * Sobre os índices: [Sistema Brasileito do Agronegócio](https://sba1.com/noticias/noticia/23145/Incra-bate-recorde-na-entrega-de-titulos-de-terras-no-governo-Bolsonaro)
 * Notícias: [CNN](https://www.cnnbrasil.com.br/politica/fatos-primeiro-bolsonaro-acerta-sobre-numeros-de-titulacao-de-terras-mas-omite-dados-de-reforma-agraria/)
 * Dados históricos: [Confederação da Agricultura e Pecuária do Brasil](https://www.cnabrasil.org.br/assets/arquivos/artigostecnicos/artigo-21_0.47033300%201514912077.pdf)
-<br>
+<br>  
 
-### H) Pesquisa sobre Perfil Eleitores
+
+### H) Programa Social/ Salário Mínimo  
+  
+* Salário Mínimo: [IPEA (Ministério do Planejamento e Orçamento)_](http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=1739471028)
+* Programa Social: [Governo Federal](https://www.gov.br/pt-br/noticias/assistencia-social/2023/06/bolsa-familia-de-junho-tem-maior-valor-medio-da-historia-r-705-40)  
+<br>  
+    
+
+### I) Pesquisa sobre Perfil Eleitores
 
 Como se trata de pesquisas de rua realizadas por instituições privadas, não é possível afirmar que não haja viés.
 De qualquer forma, tais instituições são as mais conhecidas.
@@ -162,25 +171,36 @@ No site, há vários filtros. A tabela foi gerada com os seguintes:
 ### E) Economia
 
 Para "Dívida Pública - Valores" e "Dívida Pública x PIB (%) os dados foram coletados no site do Banco Central.  
-A tabela utilizada foi: "Tabela 1- Estoques da DBGG, segundo a metodologia utilizada pelo BCB"
+A tabela utilizada: "Tabela 1- Estoques da DBGG, segundo a metodologia utilizada pelo BCB"
 * Em "Assunto"
   * Dívida Líquida e Necessidades de Financiamento do Setor Público
       * ​Evolução da dívida pública - tabelas adicionais (baixar planilha)
 * A planilha utilizada foi: "Tabela 1- Estoques da DBGG, segundo a metodologia utilizada pelo BCB"
 
 
-**O processo de tratamento consistiu em:**  
+**O processo de tratamento consistiu em:**   
 * Para os anos entre 2000 e 2006: utilizar os dados contidos nas colunas "R$ milhões e %PIB" no agrupamento "Total" em "Metodologia vigente ate 2007".   
 * Para os demais anos _(2007 até 2022)_ utilizar os dados contidos nas colunas "R$ milhões e %PIB" no agrupamento "Total" em "Metodologia atual".   
-* Os dados extraídos geram os 2 gráficos.
-
+* Os dados extraídos geram os 2 gráficos.  
+  
+  
 Para "PIB - Valor Corrente", os dados foram coletados no portal do IBGE.  
 A tabela utilizada: "Tabelas Completas _(tabelas com dados atualizados)"_ em SCNT - Sistema de Contas Nacionais Trimestrais
 
-**O processo de tratamento consistiu em:**
+**O processo de tratamento consistiu em:**  
 * Dentre as planilhas disponíveis no arquivo baixado, utilizar "Valores Correntes"  
 * A coluna "PIB" apresenta todos os anos disponibilizados pelo sistema _(1995 até o presente - 2023)_  
-* Constam ali o acumulado nos trimestres bem como a consolidação anual, sendo este último utilizado na análise, com seu respectivo ano  
+* Constam ali o acumulado nos trimestres bem como a consolidação anual, sendo este último utilizado na análise, com seu respectivo ano.
+
+
+Para "Desemprego", os dados foram coletados do portal do IBGE.  
+A tabela utilizada: "PNAD Contínua - Pesquisa Nacional por Amostra de Domicílios Contínua" - Série Histórica - Taxa de Desocupação
+
+**O processo de tratamento consistiu em:**  
+_Obs.: A planilha apresenta os dados trimestrais, acumulados, mantendo uma parcela sobreposta entre dois períodos de divulgação subsequentes._  
+
+* Limpeza contou com a eliminação da sobreposição dos dois períodos.
+    
 <br>
 
 ### F) Educação  
@@ -214,11 +234,19 @@ _(A partir do relatório gerado)_
 Os dados utilizados foram coletados dos sites do INCRA, da Confederação da Agricultura e Pecuária do Brasil e da CNN.  
 Os dados foram apenas organizados em "Desapropriação", "Assentamento" e "Titulação".  
 A explicação para cada termo foi coletado no site do próprio INCRA.  
-<br>
+<br>  
+    
+     
+### H) Programa Social/ Salário Mínimo  
 
-### H) Eleitores
-
+Programa Social: foram considerados os valores da forma que foram apresentados para geração do gráfico.  
+Salário Mínimo: foram considerados os valores do mês de dezembro de cada ano como referência.   
+<br>  
+  
+      
+### I) Eleitores  
+  
 **O processo de tratamento consistiu em:**
-* Dentre todos os perfis de eleitores apresentados pelos Institutos de Pesquisas, foram utilizados apenas aqueles que apresentavam maior diferença
-* Para essa relação foi considerada apenas o perfil eleitor do PT, o partido que mais venceu as eleições presidenciais
+* Para essa análise foi considerada apenas o partido que mais venceu as eleições presidenciais e o perfil de seu eleitor.
+* Dentre todos os perfis de eleitores apresentados pelos Institutos de Pesquisas, foram considerados apenas aqueles que apresentavam a maior diferença.  
 * Os gráficos apresentam apenas o perfil do eleitor deste partido, e dessa forma, todo o restante foi considerado, "outros partidos" - pois não é relevante para o objetivo da análise.
