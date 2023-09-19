@@ -129,6 +129,8 @@ Pois bem, mesmo o Google não solicitando, tenho esperança que o bom cidadão, 
 > ### Motivado?
 <br>
 
+## Link para o Estudo:
+[Estudo](estudo.md)
 
 ## Detalhes sobre o Estudo:
 [Notas](/notas.md)
