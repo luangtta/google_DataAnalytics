@@ -40,7 +40,7 @@ Fonte:
 
 ![Segurança Pública](/images/homicidioComparacao.jpg)   
 <h1>O Japão tem os melhores índices de educação</h1>
-<h1>E os EUA tem um média 1,2 armas por habitante</h1>
+<h1>E os EUA tem uma média 1,2 armas por habitante</h1>
   
 Em [notas](/notas.md) você pode ver mais detalhes sobre as fontes e o tratamento dos dados.   
 
