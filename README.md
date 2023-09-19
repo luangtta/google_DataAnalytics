@@ -46,7 +46,7 @@ Este [Estudo](/estudo.html) foi elaborado conforme as fases de _data analytics_ 
 
 ### _Fase 1: Perguntar_
 
-#### Objetivo: o propósito deste [Estudo](/estudo.html) é verificar se há o padrão de qualdiade do brasileiro e o que pode ser feito para uma eventual melhora.
+#### Objetivo: o propósito deste [Estudo](/estudo.html) é verificar se há  avança conforme o governo, e o que pode ser feito para uma eventual melhora.
 
 **Serão apresentados dados referentes a algumas das áreas que mais afetam a população:**
 - Evolução/ quantidade de Leis existentes;
