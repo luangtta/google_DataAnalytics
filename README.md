@@ -5,7 +5,7 @@
   
 Estudo de caso para a conclusão da Certificação de Data Analytics – Google.  
 
-O presente [Estudo](/estudo.md) segue conforme orientações da ‘TRILHA 2’ da certificação mencionada, que consiste em escolher um conjunto de dados públicos, conforme interesses pessoais, para análise.    
+O [Estudo](/estudo.md) apresentado segue conforme orientações da ‘TRILHA 2’ da certificação mencionada, que consiste em escolher um conjunto de dados públicos, conforme interesses pessoais, para análise.    
 <br>
 
 
@@ -46,7 +46,7 @@ Este [Estudo](/estudo.md) foi elaborado conforme as fases de _data analytics_ do
 
 ### _Fase 1: Perguntar_
 
-#### Objetivo: o propósito deste [Estudo](/estudo.md) é verificar se há avanço na vida do brasileiro, conforme políticas    governo, e o que pode ser feito para uma eventual melhora.
+#### Objetivo: o propósito deste [Estudo](/estudo.md) é verificar se há avanço na vida do brasileiro, conforme políticas de governo, e o que pode ser feito para uma eventual melhora.
   
 **Serão apresentados dados referentes a algumas das áreas que mais afetam a população:**
 - Evolução/ quantidade de Leis existentes;
@@ -125,17 +125,17 @@ Pois bem, mesmo o Google não solicitando, tenho esperança que o bom cidadão, 
 
 > ### **Motivação: o uso do saber em proveito do homem.** 
 > _(Motivação: motivo que leva a ação, a agir)_
-> ### Agora que leu o estudo, você sabe.
+> ### Se já leu o Estudo [aqui](estudo.md), agora você sabe.
 > ### Motivado?
 <br>
 
 ## Link para o Estudo:
-[Estudo](estudo.md)
-
+Veja o Estudo de caso [aqui](estudo.md)   
+<br>  
+  
 ## Detalhes sobre o Estudo:
-[Notas](/notas.md)
-<br>
-
-
+Esclarecimentos sobre a integridade, confiabilidade e imparcialidade dos dados, assim como detalhes sobre como foram extraídos, limpos e tratrados estão em [Notas](/notas.md).     
+<br>    
+   
 ## Licença:  
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
